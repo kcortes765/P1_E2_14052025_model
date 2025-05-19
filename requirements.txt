@@ -1,0 +1,9 @@
+# requirements.txt para el proyecto hidrológico Atacama
+# Incluye dependencias para scripts de análisis, limpieza y manejo de datos
+pandas>=2.0
+openpyxl>=3.0
+pathlib; python_version<'3.4'  # Para compatibilidad, aunque en 3.4+ es estándar
+shutil; python_version<'3.4'   # Igual, para compatibilidad
+# Si usas PyQGIS fuera de QGIS, deberías instalarlo desde el instalador oficial de QGIS
+# Si usas Jupyter para análisis exploratorio, puedes agregar:
+# jupyter
