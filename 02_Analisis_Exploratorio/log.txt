@@ -1,0 +1,6 @@
+# Log de Análisis Exploratorio
+
+- [ ] Estadísticas descriptivas generadas
+- [ ] Gráficos por estación exportados
+- [ ] Outliers visuales detectados
+- [ ] Log generado: 2025-05-18

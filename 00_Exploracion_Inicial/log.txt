@@ -1,0 +1,8 @@
+# Log de Exploración Inicial
+
+- [ ] Verificación de existencia de archivo fuente de estaciones
+- [ ] Respaldo de archivo de entrada (estaciones.xlsx)
+- [ ] Filtrado de las 7 estaciones clave
+- [ ] Primer diagnóstico de años, faltantes, duplicados
+- [ ] Tabla filtrada exportada
+- [ ] Log generado: 2025-05-18

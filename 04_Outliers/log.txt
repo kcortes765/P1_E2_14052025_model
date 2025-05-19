@@ -1,0 +1,6 @@
+# Log de Outliers
+
+- [ ] Análisis de valores atípicos realizado
+- [ ] Tabla de outliers exportada
+- [ ] Decisión documentada (descartar/conservar)
+- [ ] Log generado: 2025-05-18

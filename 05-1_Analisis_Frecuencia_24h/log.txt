@@ -1,0 +1,5 @@
+# Log de Frecuencia 24h
+
+- [ ] Ajuste de distribuciones realizado
+- [ ] Tabla de parámetros y bondad de ajuste exportada
+- [ ] Log generado: 2025-05-18

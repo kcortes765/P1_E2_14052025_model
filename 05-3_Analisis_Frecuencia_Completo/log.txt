@@ -1,0 +1,5 @@
+# Log de Frecuencia Completa
+
+- [ ] Ajuste de distribuciones por duración realizado
+- [ ] Resultados intermedios exportados
+- [ ] Log generado: 2025-05-18

@@ -1,0 +1,5 @@
+# Log de Desagregación
+
+- [ ] Curva doble acumulada aplicada
+- [ ] Tabla de desagregación exportada
+- [ ] Log generado: 2025-05-18

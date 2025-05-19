@@ -1,0 +1,5 @@
+# Log de Reporte Final
+
+- [ ] Documento generado
+- [ ] Figuras y logs incluidos
+- [ ] Log generado: 2025-05-18

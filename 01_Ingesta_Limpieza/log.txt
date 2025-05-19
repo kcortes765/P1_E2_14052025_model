@@ -1,0 +1,7 @@
+# Log de Ingesta y Limpieza
+
+- [ ] Lectura y validación del Excel fuente
+- [ ] Filtrado de estaciones válidas
+- [ ] Manejo de duplicados, valores imposibles y faltantes
+- [ ] DataFrame limpio exportado
+- [ ] Log generado: 2025-05-18
